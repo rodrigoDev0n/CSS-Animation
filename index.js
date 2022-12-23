@@ -20,7 +20,3 @@ const resetAnimation = () => {
 
 changeText();
 
-
-// Rodrigo Poblete
-// Frontend Developer
-// Analista Programador
